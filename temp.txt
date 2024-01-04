@@ -1,6 +1,2 @@
-const client = new Client();
-
-client
-    .setEndpoint('https://cloud.appwrite.io/v1')
-    .setProject('65909f49e8fb1af09b50');
- 
+https://www.youtube.com/watch?v=_W3R2VwRyF4&t=1777s
+1:22:19
